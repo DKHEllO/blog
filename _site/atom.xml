@@ -4,13 +4,55 @@
  <title>KK</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2017-10-15T19:02:22+08:00</updated>
+ <updated>2017-10-16T17:55:20+08:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name></name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>Ubuntu下搭建jekyll</title>
+   <link href="http://localhost:4000/2017/10/16/jekyll-build/"/>
+   <updated>2017-10-16T00:00:00+08:00</updated>
+   <id>http://localhost:4000/2017/10/16/jekyll-build</id>
+   <content type="html">&lt;h2 id=&quot;jekyll&quot;&gt;jekyll&lt;/h2&gt;
+&lt;h3 id=&quot;jekyll是什么&quot;&gt;jekyll是什么&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&quot;http://jekyll.com.cn&quot;&gt;jekyll中文文档&lt;/a&gt;这样描述:&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;Jekyll 是一个简单的博客形态的静态站点生产机器。它有一个模版目录，其中包含原始文本格式的文档，通过Markdown(或者Textile)以及Liquid转化成一个完整的可发布的静态网站，你可以发布在任何你喜爱的服务器上。Jekyll也可以运行在GitHub Page上，也就是说，你可以使用GitHub的服务来搭建你的项目页面、博客或者网站，而且是完全免费的。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&quot;jekyll的几个优点&quot;&gt;jekyll的几个优点&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;简单
+无需数据库、评论功能，不需要不断的更新版本，只用关心你的博客内容。&lt;/li&gt;
+  &lt;li&gt;静态
+只用 Markdown(或Textile)、Liquid、HTML&amp;amp;CSS就可以构建可部署的静态网站。&lt;/li&gt;
+  &lt;li&gt;博客形态
+自定义地址、分类、页面、博客内容 以及 自定义的布局设计 都是系统中的一等公民。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;jekyll的安装&quot;&gt;jekyll的安装&lt;/h3&gt;
+&lt;p&gt;jekyll安装需要以下环境&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Ruby&lt;/li&gt;
+  &lt;li&gt;RubGems&lt;/li&gt;
+  &lt;li&gt;Linux,Unix or MacOS X&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.ruby-lang.org/en/documentation/installation/&quot;&gt;Ruby&lt;/a&gt;的安装，这里以Debian,Ubuntu为例:&lt;/p&gt;
+
+&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;$ sudo apt-get install ruby-full&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;然后安装jekyll&lt;/p&gt;
+
+&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;$ gem install jekyll&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;这样jeykll的安装就已经完成了&lt;/p&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Test</title>
