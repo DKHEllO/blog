@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>KK</title>
+ <link href="http://localhost:4000/atom.xml" rel="self"/>
+ <link href="http://localhost:4000/"/>
+ <updated>2017-10-15T19:02:22+08:00</updated>
+ <id>http://localhost:4000</id>
+ <author>
+   <name></name>
+   <email></email>
+ </author>
+
+ 
+ <entry>
+   <title>Test</title>
+   <link href="http://localhost:4000/2017/10/15/Test/"/>
+   <updated>2017-10-15T00:00:00+08:00</updated>
+   <id>http://localhost:4000/2017/10/15/Test</id>
+   <content type="html">&lt;p&gt;Just Test!&lt;/p&gt;
+</content>
+ </entry>
+ 
+
+</feed>

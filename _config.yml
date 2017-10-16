@@ -1,0 +1,17 @@
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:           pretty
+# relative_permalinks: true
+
+# Setup
+title:               KK
+tagline:             '人生一世，修行一世'
+description:         ''
+url:                 http://lanyon.getpoole.com
+baseurl:             ''
+paginate:            5
+
+# Custom vars
+version:             1.0.0
+plugins: [jekyll-paginate]
